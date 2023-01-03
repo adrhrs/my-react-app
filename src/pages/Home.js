@@ -32,7 +32,7 @@ class Home extends React.Component {
       <Container>
         <Row>
           <Col>
-            <HeaderComp title="List"></HeaderComp>
+            <HeaderComp title="List Adrian "></HeaderComp>
             <Button onClick={this.getUsers} variant="primary">
               Refresh
             </Button>
